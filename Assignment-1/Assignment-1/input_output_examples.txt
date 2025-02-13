@@ -1,12 +1,12 @@
 ##PROBLEM 1
 
 ###Sample Input :
-Enter a string: Hello World 2024!
+Enter a string: I am yashasvi!
 
 ###Sample Output :
-Vowels: 3
-Consonants: 7
-Digits: 4
+Vowels: 5
+Consonants:6
+Digits: 0
 Special Characters: 3
 
 
@@ -51,13 +51,13 @@ Multiplication:
 ###Sample Input:
 
 Create Account:
-Name: Alice Johnson
-Account Number: 54321
-Initial Balance: 3000
+Name: Yashasvi
+Account Number: 101010
+Initial Balance: 11000
 
 Deposit: 1200
-Withdraw: 2500
+Withdraw: 500
 
 ###Sample Input:
-Deposit successful! Current Balance: 4200
-Withdrawal successful! Current Balance: 1700
+Deposit successful! Current Balance: 12200
+Withdrawal successful! Current Balance: 11700
